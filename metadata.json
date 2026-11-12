@@ -1,0 +1,6 @@
+{
+  "name": "Полчак Переводчик",
+  "description": "Переводчик на язык Полчака: правила языка, синтез речи, словарь исключений и стиль Google Переводчика",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

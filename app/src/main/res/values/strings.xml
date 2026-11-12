@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Полчак Переводчик</string>
+    <string name="tab_translate">Перевод</string>
+    <string name="tab_rules">Правила</string>
+    <string name="tab_dictionary">Словарь</string>
+    <string name="tab_history">История</string>
+    <string name="lang_russian">Русский</string>
+    <string name="lang_polchak">Язык Полчака</string>
+    <string name="swap_languages">Поменять языки местами</string>
+    <string name="input_placeholder">Введите текст…</string>
+    <string name="clear_input">Очистить</string>
+    <string name="paste_text">Вставить</string>
+    <string name="speak_text">Озвучить</string>
+    <string name="stop_speech">Остановить</string>
+    <string name="copy_text">Копировать</string>
+    <string name="share_text">Поделиться</string>
+    <string name="copied_to_clipboard">Скопировано в буфер</string>
+    <string name="no_history">История переводов пуста</string>
+    <string name="clear_history">Очистить историю</string>
+    <string name="connector_phrases_title">Фразы-связки между предложениями</string>
+    <string name="connector_mode_random">Случайные связки</string>
+    <string name="connector_mode_none">Без связок</string>
+</resources>
